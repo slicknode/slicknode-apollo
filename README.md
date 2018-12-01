@@ -1,3 +1,10 @@
+# DEPRECATED: 
+
+This project is deprecated in favor of [`slicknode-apollo-link`](https://github.com/slicknode/slicknode-apollo-link).
+This allows for more fine grained control of the network / request layer and can be combined
+with all other apollo link components. 
+
+
 # Slicknode Apollo
 
 Apollo client with recommended defaults and built in authentication to work with
